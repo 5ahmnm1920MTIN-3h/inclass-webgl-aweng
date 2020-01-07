@@ -1,11 +1,11 @@
 # Template Repository for Unity3D version 2019.1.14f1
 
 ### Project description: 
-Introduction/Project summary 
+WebGL testing repository and hosting
 
 ### Development platform: 
 (OS, Unity Version, Visual Studio Version, used SDKs)
-MacOS Mojave, Unity 2019.1.14f1, Visual Studio Community 2017 
+MacOS Mojave, Unity 2019.1.14f1, Visual Studio Community 2017 v 15.6.1; Scripting Runtime Version 4.X
 
 ### Target platform: 
 WebGL, reference resolution 960x600 
