@@ -5,9 +5,10 @@ Introduction/Project summary
 
 ### Development platform: 
 (OS, Unity Version, Visual Studio Version, used SDKs)
+MacOS Mojave, Unity 2019.1.14f1, Visual Studio Community 2017 
 
 ### Target platform: 
-WebGL, Mobile, VR Device incl. reference resolution 
+WebGL, reference resolution 960x600 
 
 ### Visuals: 
 Screenshots (concept and experience), Video
